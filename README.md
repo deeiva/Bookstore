@@ -9,7 +9,6 @@ A simple Java-based bookstore management system built using **Spring Boot** and 
 - Spring MVC
 - Thymeleaf (HTML templates)
 - Maven
-- H2 Database (or mention the one you used)
 - Eclipse or IntelliJ
 
 ## Features
